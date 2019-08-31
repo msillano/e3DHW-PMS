@@ -1,5 +1,5 @@
 # e3DHW-PMS
-Power Management System is a simple and general project methodology which, within the e3DHW vision, solves many problems related to the power supply of DIY electronic devices flexibly.
+Power Management System is a simple and general project methodology which, within the e3DHW vision (https://github.com/msillano/e3DHW-make-DIY-electronics-hardware-like-a-professional), solves many problems related to the power supply of DIY electronic devices flexibly.
 
 e3DHW-PMS (e3DHW- Power Management System) has the following objectives:
 - Very simple, cheap and substantially similar power supply circuit for all DIY electronic devices. 
